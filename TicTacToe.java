@@ -1,5 +1,5 @@
 //Kian Francis A. Porras
-
+//Tic Tac Toe is fun
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
